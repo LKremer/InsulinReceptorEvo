@@ -4,7 +4,7 @@ This repository contains supplementary data and scripts to the publication menti
 
 **[Data](data/):**
 
-* [Table_S1_genomes.pdf](data/Table_S1_genomes.pdf)
+* [Table_S1_genomes.pdf](data/Table_S1_genomes.pdf)  
 Table S1: Source websites and version numbers of the 22 arthropod genomes and genome annotations that were searched for insulin
 receptor genes
 
