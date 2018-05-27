@@ -1,0 +1,47 @@
+InR_name	gene_id	comment
+Aaeg_InR	AAEL002317-PA	
+Acep_InR1	gnl|Acep_1.0|ACEP13370-PA	
+Acep_InR2	gnl|Acep_1.0|ACEP22599-PA	
+Aech_InR1	gnl|Aech_2.0|AECH18777-PA	
+Aech_InR2	gnl|Aech_2.0|AECH26798-PA	
+Amel_InR1	GB53353-PA	
+Amel_InR2	GB55425-PA	
+Bger_InR1	Bger_13643	
+Bger_InR2	Bger_14014	
+Bger_InR3	Bger_13639	
+Cflo_InR1		gene model was manually annotated at Scaffold851 9071-26075
+Cflo_InR2	gnl|Cflo_3.3|CFLO13268-PA	
+Csec_InR1	Csec_G12824_T1	
+Csec_InR2	Csec_G04111_T1	
+Csec_InR3	Csec_G12816_T2	
+Dmel_InR	FBpp0288671	
+Dpul_InR_A	EFX62637.1	
+Dpul_InR_B	EFX63421.1	
+Dpul_InR_C	EFX85280.1	
+Dpul_InR_D	EFX85381.1	
+Edan_InR1		gene model was manually annotated at Scaffold244 377257-355123
+Edan_InR2	EDAN007959	gene model was manually improved
+Hsal_InR1	gnl|Hsal_3.3|HSAL20783-PA	
+Hsal_InR2	gnl|Hsal_3.3|HSAL20700-PA	
+Lhum_InR1	LH18716-PA	
+Lhum_InR2	LH21623-PA	
+Lmig_InR1	LOCMI16363	fragmented / incomplete gene model
+Lmig_InR2	LOCMI07370,LOCMI16333	two fragmented gene models (C- and N-terminus) were merged
+Mnat_InR1	Mnat_00354	
+Mnat_InR2	Mnat_07221	
+Mnat_InR3	Mnat_00349	
+Nvit_InR	NV14476-PA	
+Pbar_InR1	PB15423-PA	
+Pbar_InR2	PB27180-PA	
+Ptep_InR_E	aug3.g2988.t1	
+Ptep_InR_F	aug3.g17156.t1	
+Rpro_InR1	RPRC006251-PA	
+Rpro_InR2		gene model was manually annotated at scaffold GL563039 1928359-1980618
+Sinv_InR1	gnl|Sinv_1.0|SINV24292-PA	
+Sinv_InR2	gnl|Sinv_1.0|SINV18997-PA	
+Smar_InR	SMAR012705	gene model was manually improved
+Tcas_InR1	TCOGS2_TC007370-PA	
+Tcas_InR2	TCOGS2_TC010784-PA	
+Znev_InR1	Znev_02684	
+Znev_InR2	Znev_16736	
+Znev_InR3	Znev_02685	

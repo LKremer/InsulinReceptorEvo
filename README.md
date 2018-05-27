@@ -14,7 +14,7 @@ The protein alignment of all 46 insulin receptors, provided in fasta format. Com
 * [protein-tree_arthropod-InRs_RAxML-JTT+I+G+F.nwk](data/protein-tree_arthropod-InRs_RAxML-JTT+I+G+F.nwk)  
 The protein tree depicted in [Figure 2](figures/Figure_2.pdf) in Newick format. Computed with RAxML with the JTT+I+G+F model based on the protein alignment above.
 
-* [arthropod-InR_gene-IDs.txt](data/arthropod-InR_gene-IDs.txt)  
+* [arthropod-InR_gene-IDs.tsv](data/arthropod-InR_gene-IDs.tsv)  
 A mapping of our InR nomenclature to the corresponding gene IDs (e.g. "Bger_InR1" corresponds to the gene "Bger_13643").
 
 
